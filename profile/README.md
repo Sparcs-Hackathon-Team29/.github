@@ -13,7 +13,7 @@
 ## Introduction
 |기획 강서현|디자인 오승빈|FE 강한림|BE 이영재|
 |------|---|---|--|
-|<img width="200" height="200" alt="icon" src="https://github.com/user-attachments/assets/782bff1a-a6c4-407b-8967-c4bd540ba530">|<img src="https://github.com/user-attachments/assets/fd124949-5505-4923-aaea-6584359ecf4b"  width="200" height="230">|<img width="200" height="200" alt="icon" src="https://github.com/user-attachments/assets/782bff1a-a6c4-407b-8967-c4bd540ba530">|<img src="https://github.com/user-attachments/assets/4d4e81c4-2894-4e42-a88a-6076f2ce8c6d"  width="200" height="230">|
+|<img width="200" height="200" alt="icon" src="https://github.com/user-attachments/assets/782bff1a-a6c4-407b-8967-c4bd540ba530">|<img src="https://github.com/user-attachments/assets/782bff1a-a6c4-407b-8967-c4bd540ba530"  width="200" height="230">|<img width="200" height="200" alt="icon" src="https://github.com/user-attachments/assets/782bff1a-a6c4-407b-8967-c4bd540ba530">|<img src="https://github.com/user-attachments/assets/4d4e81c4-2894-4e42-a88a-6076f2ce8c6d"  width="200" height="230">|
 
 ## Skills
 
