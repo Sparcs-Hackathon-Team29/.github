@@ -1,12 +1,12 @@
 # 제목
 
-
-
 - 팀명
 - 프로젝트 명
 - 기간
-
-
+## 팀
+|기획 강서현|디자인 오승빈|FE 강한림|BE 이영재|
+|------|---|---|--|
+|<img src="https://github.com/user-attachments/assets/cb9b6517-96d4-4d4a-863a-ac59c101cad1"  width="200" height="230">|<img src="https://github.com/user-attachments/assets/fd124949-5505-4923-aaea-6584359ecf4b"  width="200" height="230">|<img src="https://github.com/user-attachments/assets/cb9b6517-96d4-4d4a-863a-ac59c101cad1"  width="200" height="230">|<img src="https://github.com/user-attachments/assets/4d4e81c4-2894-4e42-a88a-6076f2ce8c6d"  width="200" height="230">|
 
 
 ## 페이지 / 기능
